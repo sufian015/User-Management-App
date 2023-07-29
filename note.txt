@@ -1,0 +1,11 @@
+* child theke data access korar jonno - steps
+
+1. parents e callback function create korte hbe
+2. function ta props hisebe pathate hbe
+3. child oi props ta destructure korbe and use korbe 
+
+* steps of context api create and manage:
+
+1. create context
+2. provide and wrap the context
+3. use context
